@@ -43,6 +43,9 @@ main {
 .arrow {
   transition: all .5s;
 }
+.arrow:hover {
+  cursor: pointer;
+}
 
 .illusDesktop, .patternDesktop {
   display: none;
